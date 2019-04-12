@@ -1,5 +1,5 @@
 {
-  "name": "superagent-no-cache",
+  "name": "@convoy/superagent-no-cache",
   "repository": "https://github.com/johntron/superagent-no-cache.git",
   "description": "Plugin for visionmedia/superagent that adds headers to all requests that prevents caching",
   "version": "0.1.0",
